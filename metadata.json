@@ -1,0 +1,5 @@
+{
+  "name": "Centralizing CloudTrail and VPC Flow Logs to a Secure AWS Log Archive Account",
+  "description": "",
+  "requestFramePermissions": []
+}
